@@ -3,7 +3,7 @@ import numpy as np
 import datetime
 import streamlit as st
 from numpy import mean
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 import plotly.express as px
 
 #This file is meant to organize growth into 5 groups. (twitter handle, sector, sub sector, type, and Project)
